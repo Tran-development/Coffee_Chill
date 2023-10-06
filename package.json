@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-coffee",
+  "version": "1.0.0",
+  "description": "This project to learn Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch",
+    "start:dev" : "live-server public"
+  },
+  "keywords": [],
+  "author": "tinhtran",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "tailwindcss": "^3.3.3"
+  }
+}
