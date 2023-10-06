@@ -3,5 +3,4 @@
 # requires
 nodejs >= v14.7.0
 npm >= v6.14.7
-
-# link demo : https://tailwindcss-coffeechill-tqtinh.web.app/
+Link demo : https://tailwindcss-coffeechill-tqtinh.web.app/
